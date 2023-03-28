@@ -1,0 +1,39 @@
+pc7@DESKTOP-6JQOOEK MINGW64 ~/SI_2023_lab1_193095 (master)
+$ git log --all
+commit 3faeb58eb3e32171018601e289cbe63a0797a78c (HEAD -> master, origin/master,
+origin/bug3, bug3)
+Author: Kristina Mihajlovska <mihajlovska.k@yahoo.com>
+Date:   Tue Mar 28 18:09:37 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 79c6f7f5221b9394c7e24b653b2f6f7dee18b68c
+Merge: 3e77dc1 3be5851
+Author: Kristina Mihajlovska <mihajlovska.k@yahoo.com>
+Date:   Tue Mar 28 18:13:10 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 3be5851a8169d6df38689df8e9cc6b56020646e8 (origin/bug2, bug2)
+Author: Kristina Mihajlovska <mihajlovska.k@yahoo.com>
+Date:   Tue Mar 28 18:08:22 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 3e77dc18a9ca56bccf2bd36749878e1ffb45580e (origin/bug1, bug1)
+Author: Kristina Mihajlovska <mihajlovska.k@yahoo.com>
+Date:   Tue Mar 28 18:06:39 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 61b7ec58e42212df34076d9bc3dde04df73e0ddd
+Author: Kristina Mihajlovska <mihajlovska.k@yahoo.com>
+Date:   Tue Mar 28 18:02:50 2023 +0200
+
+    Add java class
+
+commit dc18f36dc65cd64e63e00c87069402fe80464e53
+Author: Kristina Mihajlovska <mihajlovska.k@yahoo.com>
+Date:   Tue Mar 28 17:58:51 2023 +0200
+
+    Initial commit
